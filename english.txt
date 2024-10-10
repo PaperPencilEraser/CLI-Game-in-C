@@ -1,0 +1,251 @@
+GUIDE
+
+This is a simple CLI Game program based on the Battle of Mactan. It is available both in ENGLISH
+and FILIPINO language. This is the ENGLISH version. To play, you have to type either of the three
+inputs: -att (attacks the enemy), -def (defends yourself from an oncoming damage), and -ddg (let
+you dodge an enemey attack). To start the game, enter anything and it would start narrating the
+story to you.
+
+Have fun!
+
+<//>
+
+<001-001>
+*********
+You wake up feeling dizzy with your cheek on the sand. You can't remember why you're lying down.
+You try to stand up, but suddenly, a man wielding a sword attacks you. You quickly dodge his
+attack, and in a flash, you notice his outfit. His body is covered in clothes that shimmer under
+the sun, and his lower garment is as red as blood. His skin is as lively as the morning sand.
+That's when you realize you're fighting for your Datu, and the man attacking you is the enemy.
+The enemy prepares for a second attack while you glance around, searching for a weapon. To your
+left, there is a sword and a wooden shield.
+
+<//>
+
+<001-ATT>
+=========
+Using only your hand, you punch the enemy in the nose. You land a solid blow, and now his nose
+is bleeding. You try to punch him again, this time on the left cheek, and it connects. You
+strike again, hitting his right cheek. The punch lands. The enemy seems dazed from your
+repeated punches. On your final strike, you aim at his clothing. As you punch, you feel pain
+because his garment is as hard as stone. Why are these strangers wearing stone? The enemy sees
+that you're hurt from your punch and seizes the opportunity. He slices your arm and then stabs
+his sword into your side. That's when you realize you made the wrong decision.
+
+<//>
+
+<001-DEF>
+=========
+The enemy attacks again. In your fear, you try to defend yourself with your arms. You sustain
+cuts on both arms, and deep wounds form. You try to stay calm and grab both the shield and
+sword lying in the sand. You prepare to defend against the enemy's next attack. Seconds later,
+he attacks again. You raise your shield, ready to block the strike, and it hits. The enemy
+keeps attacking, hoping to land a blow on your hand, but he can't get through your defense.
+After a moment, you notice the enemy losing balance, perhaps stumbling over scattered weapons.
+You don't let this chance pass and strike him with your sword, hitting his neck.
+
+<//>
+
+<001-DDG>
+=========
+The enemy attacks again. You knew he would, so you quickly dodge toward the shield and sword.
+You grab the shield and brace for his next attack. On the third attack, you feel the force of
+his strike, but you don't back down. While his sword is still pressed against your shield,
+you slice his hand. He screams in pain. Now, with the enemy unarmed and unable to defend
+himself, you finish him off with a cut to his neck.
+
+<//>
+
+<002-002>
+*********
+In the distance, you see your comrade struggling against an invader. He seems to be having a
+hard time fighting this enemy. You step forward to help, but you're stopped by a sound. It's
+the sound of a bow releasing an arrow. You look around to find the source and glance upward,
+seeing a rain of arrows heading toward you. You now have two choices: defend against the
+arrows or run to help your comrade.
+
+<//>
+
+<002-ATT>
+=========
+You sprint toward your comrade. Arrows rain down from the sky. It's a miracle you haven't
+been hit yet, until one grazes both of your arms. You stop momentarily from the pain of your
+wounds, but you know more arrows are coming your way, so you keep running. Eventually, you
+reach the invader attacking your comrade. His back is turned, fully focused on your comrade.
+You wound both of his legs. The enemy screams in pain and turns to face you. While he's
+distracted, your comrade strikes him from behind with his sword. The attack isn't effective,
+likely due to the invader's armor. But you don't give him a chance to retaliate, and you
+slice his throat.
+
+<//>
+
+<002-DEF>
+=========
+You stop and crouch to shield your body with your shield. After five seconds, the rain of
+arrows stops. You quickly run toward your comrade and charge at the enemy with your shield.
+The enemy falls, and your comrade swiftly strikes him on the back of the neck with his
+sword. A large gash is left from the blow, and the enemy finally dies.
+
+<//>
+
+<002-DDG>
+=========
+You try to dodge the arrows. You don't know what came over you to make this choice. At
+first, you avoid some of the arrows, but there are too many, and you can’t dodge them all.
+The first arrow hits your thigh, the second your right arm, the third strikes your left
+cheek. You try to run to avoid the fourth, but your deep thigh wound worsens with every
+step. The fourth arrow strikes your head. You fall to the ground, eyes wide open. It's
+painful to know that the last thing you see is your comrades fighting the invaders, not
+your Datu’s victory.
+
+<//>
+
+<003-003>
+*********
+Having saved your brother from his fate, you now wanted to help your other kin in the
+battle to finally end it. But before you could take a step, someone attacked you from
+behind. You felt the sting of a fresh wound. Your brother did not let this go and
+retaliated, but the enemy quickly defended himself. Your brother launched a flurry of
+attacks, but all were blocked. Suddenly, another enemy appeared behind him. That’s when
+your brother’s valiant fight came to an end. It hurt deeply to see his story end here,
+but you were in the middle of a battle between your Datu and the invaders, so you had no
+time to grieve. Two against one was not a fair fight for you. You thought of fighting,
+but with the wound on your back and both arms, you weren’t sure you could win. Perhaps
+running away was the wiser choice.
+
+<//>
+
+<003-ATT>
+=========
+You thought about running, but what kind of warrior runs from a battle? A coward, that’s
+who. Even though the odds weren’t in your favor, you tried to fight. You struck first,
+catching them by surprise. You slashed the face of the first enemy, the one who cut your
+back. The second enemy retaliated, but you blocked with your shield. To your left, you saw
+the first enemy bleeding from his face. Enraged, the first enemy attacked again while you
+were defending against the second, but you could still defend yourself with your sword.
+Your focus was on the first enemy’s attacks, and you didn’t notice that the second one was
+about to strike. Realizing this, you quickly dropped your defense against the first enemy
+to block the second with your sword. However, this left you open, and the first enemy
+stabbed you in the back. You saw the tip of his sword protruding from your chest. Perhaps
+running would have been the right choice.
+
+<//>
+
+<003-DEF>
+=========
+You tried to let them attack first, planning to defend and then counterattack. At first,
+it worked: the first enemy struck, and you cut his hand. But the wound wasn’t deep enough to
+defeat him. The second enemy attacked immediately, and you defended, intending to counter, but
+the first enemy struck again, forcing you to remain on the defensive. Both enemies kept
+attacking while you hid behind your shield until it finally broke. You closed your eyes,
+bracing for the next strikes, and didn’t know what happened next. When you looked back, the
+enemies were walking away from you. You tried to follow them, but as you took a step, you
+collapsed. That’s when you noticed two swords embedded in your chest. Lying in the sand, you
+gazed upon the battlefield where your brothers still fought. Many of them were in the same
+position as you—lying down, unable to fight. But others were still fighting for your Datu
+and your land. You knew your Datu and your brothers would win this battle, so you entrusted
+the fight to them.
+
+<//>
+
+<003-DDG>
+=========
+You rammed the second enemy with your shield and ran away. The second enemy fell, but you left
+your shield with him. Perhaps that was the right decision because now you had nothing heavy to
+carry. You saw the first enemy chasing after you, but he was slow, and it seemed he was running
+out of breath.
+
+<//>
+
+<004-004>
+*********
+While running, you spotted a spear. Its shaft was made of bamboo, and its head was made of stone,
+a great weapon for long-distance combat. This was the perfect opportunity to attack the enemy
+chasing you with the spear.
+
+<//>
+
+<004-ATT>
+=========
+You grabbed the spear and threw it at the enemy chasing you. He saw you throw it and tried to run away,
+but he was too slow to avoid it. The spear hit him in the back, piercing through to his chest. You
+approached the spear while keeping your eye on the second enemy. He was just getting up when he saw what
+had happened. Knowing he was next, he tried to stand and run. At that moment, you retrieved the spear,
+ready to throw it at the second enemy. You threw it as he crawled in fear. Soon, it hit his leg, pinning
+him to the ground, and blood gushed from his wound. Knowing he wouldn’t last much longer, you didn’t waste
+any more time on him.
+
+<//>
+
+<004-DEF>
+=========
+You paused briefly with the spear behind you and let the enemy get closer. When he was near, you stabbed
+his foot with the spear, pinning him to the ground. You then struck him with your sword, but it wasn’t
+effective. A small spark flew as your sword made contact with his armor, like the spark you see when two
+stones are struck together. Could his armor be made of stone? Nonetheless, his foot is still stuck on the
+ground. You see that nothing is obstructed in his face so you slice him there and then you stabbed him in
+the neck. The second enemy fell short from the hands of one of your brother, perhaps they attacked him when
+he was down when you rammed him.
+
+<//>
+
+<004-DDG>
+=========
+You avoided this spear because you thought it wouldn't be effective against them. While dodging the spear,
+you found a bow and arrows. A lot of arrows were scattered on the sand, and these weren't like the ones you
+used. The heads of these arrows were as shiny as the invaders' armor. Perhaps both were made from the same
+materials. You used the bow and arrows to hit an enemy positioned at a distance. You aimed the arrow to
+strike his leg, then released it. The enemy was unaware as the arrow descended from the sky. It hit his leg,
+and he screamed in pain. You picked up another arrow and aimed it at his headgear. It struck, and the enemy
+fell. You took another arrow, this time targeting a second enemy—your chance to avenge your sibling. You
+pulled the bowstring, aimed at the enemy's direction, and released it. You watched as the arrow descended
+toward the enemy, anger filling your thoughts. Like the first enemy, the arrow hit the second one's headgear.
+
+<//>
+
+<005-005>
+*********
+Not far away, you saw the invaders preparing to flee, while some had already set sail away from the battle
+in their boats. Using the bow you found, you tried to shoot arrows at a few of them, but on your right, you
+noticed a man planning to burn down the hut where you were staying. Two choices were before you: defend your
+home or attack the enemies sailing away.
+
+<//>
+
+<005-ATT>
+=========
+You ignored the man and continued shooting arrows at those aboard the ship sailing away from the battle.
+You hit a few, but many of the arrows you used missed, while your hut was completely burned down. The man
+quickly ran toward the sea, probably to escape after what he did. Your brothers chased after him to make
+him pay for burning your home. He didn't reach the ships sailing away from the battle; that’s when your
+brothers caught up to him and worked together to bring him down.
+
+<//>
+
+<005-DEF>
+=========
+You defended your hut face-to-face using your sword, but you were defeated in this fight. The man
+successfully burned down your hut. In your final moments, you saw your brothers chasing after him. Perhaps
+they would avenge your death. As you thought about this, you collapsed to the ground and took your final rest.
+
+<//>
+
+<005-DDG>
+=========
+You avoided both choices by sitting down in the sand, tired and exhausted. You decided to rest for a while.
+After all, you could build a new hut if you wanted to. As you lay on the ground, you saw your hut burning and
+the man responsible for the fire running from your brothers, who were chasing him, ready to kill him. A few
+minutes passed, and your brothers worked together to bring down the lone man. Your eyes witnessed their rage
+toward him.
+
+<//>
+
+<END-END>
+*********
+The invaders successfully escaped. Your brothers and the Datu triumphed in this battle, but many of your
+brothers had to sacrifice their lives for this victory. You also knew that these invaders would return to
+avenge their fallen comrades. This would not be your last battle. But for now, you were the victors, and
+that was what mattered. If they planned to return, your Datu would be ready to face them in battle again.
+As long as your Datu lived, they would not win any battle they chose to fight.
+
+<//>
