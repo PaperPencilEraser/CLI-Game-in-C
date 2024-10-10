@@ -1,0 +1,281 @@
+GABAY
+
+Ito ay isang simpleng CLI Game program na base sa Laban sa Mactan. Maaari mo itong laruing sa
+lengguwaheng INGLES o TAGALOG. Nakasalin ito ngayon sa TAGALOG. Para maglaro, kelangan mong
+magbigay nang isa sa tatlong input: -att (atakihin ang kalaban), -def (dumepensa sa atake), at
+-ddg (umiwas sa atake ng kalaban). Para magsimula, maari kang mag type nang kahit ano at ang
+programa ay magsisimulang sabihin sa iyo ang kwento.
+
+Magpakasiya ka!
+
+<//>
+
+<001-001>
+*********
+Nagising kang nahihilo at pisngi'y nasa buhangin. Wala kang maalala kung bakit ka nakahiga.
+Sinubukan mong tumayo nang biglang may umatake sa iyong isang lalaking may hawak na espada. Dali
+dali mong iniwasan and kaniyang pag-atake at sa isang saglit, nakita mo ang kaniyang kasuotan.
+Nababalot ang kaniyang katawan ng damit na kumikintab sa ilalim ng araw, pambabang singpula ng
+dugo. Habang ang kaniyang balat naman ay singsigla ng buhangin sa umaga. Dito mo napagtantong
+lumalaban ka para sa iyong Datu at ang lalaking umatake sa iyo ang kalaban. Naghanda ang 
+kalaban para sa pangalawang pag atake habang ikaw naman ay tumitingin sa iyong paligid upang
+maghanap nang sandata. Sa iyong kaliwa ay mayroong espada, at kalasag na gawa sa kahoy.
+
+<//>
+
+<001-ATT>
+=========
+Gamit lamang ang iyong kamay, sinuntok mo ang kalaban sa ilong. Napuruhan mo ang kaniyang ilong
+kaya't ito ngayon ay nadurugo. Sinubukan mo uling suntukin ang kalaban pero ngayon naman ay sa
+kanyang kaliwang pisngi, ito naman ay tumama. Sumuntok ka uli pero sa kaniyang kanang pisngi.
+Ang iyong suntok ay tumama. Tila nahihilo na ang kalaban sa paulit-ulit mong suntok. Sa huling
+suntok mo ay sinubukan mong tamaan ang kaniyang damit. Nasaktan ka sa pagsuntok sa damit na ito,
+kasing tigas ng isang bato ang kaniyang kasuotan. Bakit magsusuot ng bato ang mga estrangherong
+ito? Nakita ng kalaban na nasaktan ka sa suntok mo at ginamit niya itong pagkakataon para makabawi.
+Hiniwa nya ang iyong braso at tsaka sinaksak niya isinaksak ang kaniyang espada sa iyong tagiliran.
+Dito mo napagtantong mali ang ginawa mong desisyon.
+
+<//>
+
+<001-DEF>
+=========
+Umatake uli ang kalaban. Dahil sa takot mo, sinubukan mong dumepensa gamit ang iyong braso.
+Nagtamo ka nang hiwa sa dalawa mong braso, nagtamo ka nang malaking sugat sa pareho mong braso.
+Sinubukan mong kumalma at kunin pareho ang kalasag at espada na nakalatag lang sa buhangin. Ikaw ay
+naghandang dumepensa sa susunod na atake ng kalaban. Ilang segundo ang lumipas, umatake siya uli.
+Itinaas mo ang iyong kalasag, handa sa pagsalo sa atake ng kalaban, ito'y tumama. Patuloy ang pag-
+atake ng kalaban umaasang matamaan kahit manlang ang iyong kamay, ngunit wala siyang magawa sa iyong
+pagdepensa. Ilang saglit pa at nakita mong tila siya ay nawalan nang balanse, marahil siya ay nadapa
+sa mga sandata na nagkalat. Hindi mo pinalagpas ang pagkakataon na ito at siya ay iyong inatake gamit
+ang iyong espada, ito'y tumama sa kaniyang leeg.
+
+<//>
+
+<001-DDG>
+=========
+Umatake uli ang kalaban. Alam mong gagawin niya uli ito kaya't agad-agaran kang umilag palapit sa
+kalasag at espada. Kinuha mo ang kalasag at ikaw ay dumepensa sa susunod na atake. Sa pangatlong pag-
+atake nang kalaban damang dama mo ang puwersang kayang pinakawala, ngunit hindi ka nagpasindak dito at
+habang nasa kalasag mo pa ang kaniyang espada, hiniwa mo ang kaniyang kamay. Siya ngayon ay nagsisi-
+sigaw sa sakit. Ngayong ang kalaban ay walang hawak na sandata at hindi kayang depensahan ang kaniyang
+sarili, tinapos mo ang laban sa paghiwa sa kaniyang leeg. 
+
+<//>
+
+<002-002>
+*********
+Sa hindi kalayuan, nakita mong may kinakalabang mananakop ang iyong katapiran. Mukhang siya'y nahihi-
+rapan sa pakikipaglaban sa mananakop na ito. Humakbang ka papunta sa sa kaniya para tumulong pero
+napahinto ka sa iyong narinig. Tunog ito ng panang nagpakawala nang palaso. Tumingin ka kung saan
+nanggaling ang tunog na ito at ika'y tumingala, nakita mong napakaraming palaso ang papunta sa kinata
+-tayuan mo. Dalawang desisyon ang nasa isip mo ngayon, demepensa sa mga palaso o tumakbo papunta sa
+iyong kapatiran para tulungan siya.
+
+<//>
+
+<002-ATT>
+=========
+Tumakbo ka nang matulin papunta sa iyong kapatid. Mga palaso'y nag sisibabaan mula sa kalangitan.
+Isang himawala na hindi ka pa natatamaan, hanggang sa nadaplisan ka nang palaso sa pareho mong braso.
+Ika'y napatigil sa hampi ng iyong natamong sugat ngunit alam mong marami pang palaso ang papunta sa
+direksiyon mo kung hihinto ka kaya't itinuloy mo ang iyong pagtakbo. Kalaunan, naabutan mo ang
+mananakop na umaatake sa iyong kapatid. Siya ay nakatalikod at ang pansin ay nakataon lamang sa iyong
+kapatid. Sinugatan mo ang kaniyang parehong hita. Napasigaw sa sakit ang kalaban at humarap ito sa
+iyo. Habang hindi nakatingin ang kalaban, hinampas nang espada ng iyong kapatid ang likuran ng manana
+-kop. Hindi naging epektibo ang pagatakeng ito ng iyong kapatid. Marahil dahil sa kasuotang gamit ng
+mananakop na ito. Ngunit, hindi mo na binigyan nang pagkakataon ang kalaban na umatake at hiniwa mo
+ang kaniyang leeg.
+
+<//>
+
+<002-DEF>
+=========
+Huminto ka at umupo para depensahan ang iyong buong katawan gamit ang hawak mong kalasag. Limang
+segundo ang lupmipas, tumigil na ang pag-ulan ng mga palaso mula sa kalangitan. Agad-agad kang
+tumakbo ka nang matulin papunta sa iyong kapatid. Inararo mo ang kalaban gamit ang iyong kalasag.
+Natumba ang kalaban at dali dali naman siyang hinampas ng espadang hawak-hawak ng iyong kapatid. Tuma
+-ma ito sa batok ng kalaban. Napalaking hiwa ang iniwan nang iyong kapatid sa hampas na iyon at dito
+na tuluyang namatay ang inyong kalaban.
+
+<//>
+
+<002-DDG>
+=========
+Sinubukan mong iwasan ang mga palasong bumababa. Hindi mo alam kung ano ang pumasok sa utak mo at ito
+ang pinili mong desisyon. Sa una, naiwasan mo ang iilan sa mga palasong ito ngunit napakarami ng pala
+-song bumababa at hindi mo na kinayang iwasan ang mga ito. Tinamaan ka nang unang palaso sa iyong
+hita, pangalawa sa iyong kanang braso, pangatlo naman ay sa kaliwang pisngi. Sinubukan mong tumakbo
+para iwasan ang pang apat ngunit napakalalim ng tama mo sa iyong hita at sa bawat galaw mo, lalo pa
+itong lulalalim. Tumama sa iyong ulo ang pang apat na palaso. Bumagsak kang dilat ang iyong dalawang
+mata. Napasakit sa iyo na ang huli mong makikita ay ang laban ng iyong mga kapatid mula sa mananakop
+at hindi ang tagumpay ninyo at ng iyong Datu. 
+
+<//>
+
+<003-003>
+*********
+Ngayong na iligtas mo na ang iyong kapatiran sa kaniyang katapusan, nais mong tulungan ang iba mo pang
+kapatid sa laban upang matapos na ang laban na ito. Subalit, hindi kapa nakakahakbang ay may biglang
+umatake sa iyong likuran. Damang dama mo ang hapdi ng sariwang sugat. Hindi pinalampas ito nang iyong
+kapatid at iginati kaniya pero dumepensa agad ang kalaban. Nagpaulang nang mga atake ang iyong kapatid
+para sa kalaban ngunit lahat ng ito ay kaniyang dinepensahan nang biglang, may sumulpot na kalaban
+sa kaniyang likuran. Dito na natapos ang isang napakahusay na pakikipaglabang ipinakita nang iyong
+kapatid. Napakasakit na hanggang dito na lamang ang kaniyang istorya,pero nasa gitna ka nang laban sa
+pagitan ng iyong Datu at ng mga mananakop na ito kaya wala kang oras para magmukmok. Dalawa laban sa
+isa, hindi patas na laban para sa iyo. Iniisip mong lumaban ngunit dahil sa sugat mo sa likuran at sa
+pareho mong braso, hindi ka tiyak na ikaw ay mananalo. Marahil ang pagtakbo palayo ay ang matalinong
+desisyon.
+
+<//>
+
+<003-ATT>
+=========
+Nasa isip mo ang pagtakbo ngunit ano ang mandirigma kung siya ay tatakbo sa laban? Duwag, isa siyang
+duwag. Kahit hindi patas ang laban para sa iyo, sinubukan mo paring lumaban. Inunahan mo sila sa pag
+atake atsila ay nabigla. Nahiwa mo ang unang kalaban, ang humiwa sa iyong likuran, sa kaniyag mukha.
+Gimante ang pangalawang kalaban sa pag-atakeng iyon pero dumepensa ka gamit ang iyong kalasag. Sa
+iyong kaliwa, nakikita mong nagdurugo ang mukha ng unang kalaban.Sa galit, umatake uli ang unang kalaban
+habang nakadepensa ka sa pag-atake ng pangalawa, hindi ito problema sapagkat kaya mong depensahan ang
+iyong sarili gamit ang espada. Ang iyong atensiyon ngayon ay nakatuon sa pagdepensa sa unang kalaban at
+hindi mo namalayang balak muli umatake ng pangalawang kalaban. Nang malaman mo na ito, bigla mong
+binitawan ang iyong depensa sa unang kalaban at dinepensahan mo ang pag atake ng pangalawa gamit ang
+iyong espada. Dahil dito, naka atake ang unang kalaban. Sinaksak kaniya sa iyong likuran, kitang kita
+sa iyong kaliwang dibdib ang dulo ng kaniyang espada. Marahil ang pagtakbo ang tamang desisyon.
+
+<//>
+
+<003-DEF>
+=========
+Sinubukan mong paunahin silang umatake at depensahan ang pag atakeng ito. Inisip mong pagkatapos
+umatake ng isa ay meron kang tiyansa na umatake pabalik at puruhan siya. Sa una tama ka, umatake ang
+unang kalaban ang nahiwa mo ang kaniyang kamay ngunit hindi sapat ang maliit na hiwang ito para tulu
+-yan mong matalo ang dalawang kalaban. Agad namang umatake ang pangalwang kalaban at ito ay iyong
+dinepensahan, balak mong ibalik ang pag atakeng ito ngunit biglang umatake ang uang kalaban kaya wala
+kang nagawa kundi manatiling nakadepensa. Paulit-ulit na umatake ang parehong kalaban habang ikaw ay
+nagtatago sa iyong kalasag hanggang sa tuluyan na nga itong masira. Napapikit ka sa mga sumunod na 
+pag-atake at hindi mo na alam kung ano-ano ang sumunod na nangyari. Lumingon ka sa iyong likuran at
+nakita mo ang parehong kalaban nakatalikod at humahakbang palayo sa iyo. Sinubukan habulin sila ngunit
+sa iyong paghakbang, ika'y biglang natumba. Dito mo na lang nakita ang dalawang espadang nakatusok sa
+iyong dibdib. Napahiga ka sa buhangin, mata'y tanaw ang buong laban ng iyong mga kapatid. Marami sa
+kanila ay nasa iyong posisyon. Nakahiga't hindi na kayang lumaban pa. Ang iba naman ay patuloy pa ring
+nakikipaglaban para sa iyong Datu at sa kanilang lupa. Alam mong kayang ipalasolo ito ng iyong Datu at 
+iyong mga kapatid kaya ipina-ubaya mo na sa kanila ang laban na ito.
+
+<//>
+
+<003-DDG>
+=========
+Inararo mo ang pangalawang kalban gamit ang iyong kalasag at tumakbo ka palayo sa kanila. Natumba ang
+pangalawang kalaban nang dahil sa pag-araro mo sa kaniya ngunit iniwan mo ang kalasag kasama niya sa
+pagbagsak. Marahil tamang lang ang iyong ginawa dahil ngayon wala ka nang hawak na mabigat na bagay.
+Nakita mong hinahabol ka nang unang kalaban ngunit napakabagal niya at tila siya'y kinakapos nang
+hininga.
+
+<//>
+
+<004-004>
+*********
+Sa iyong pagtakbo, nakakita ka nang sibat. Katawang gawa sa kawayan at ulong gawa sa bato. Isang
+magandang sandata para sa malayuang labanan. Napakagandang pagkakataon ito para umatake sa kalabang
+humahabol sa iyo gamit ang sibat.
+
+<//>
+
+<004-ATT>
+=========
+Kinuha mo ang sibat at ibinato mo ito papunta sa kalabang humahabol sa iyo. Nakita niyang iyong ibinato
+ang sibat kaya dali dali siyang tumakbo palayo ngunit napaka bagal niya para iwasan ang pagbaba nito.
+Tumama ito sa kaniyang likod, tagos hanggang sa kaniyang dibdib. Nilapitan mo ang sibat habang mata mo'y
+nasa ika-lawang kalaban. Patayo pa lamang siya nang makita niya ang buong pangyayari, alam niyang siya
+na ang iyong isusunod kaya't sinubukan niyang tumayo at tumakbo. Sa mga oras na iyon, nakuha mo na ang
+sibat at handa ka nang ibato muli ito papunta sa direksiyon ng pangalawang kalaban. Binato mo ito habang
+gumagapang sa takot ang kalaban. Hindi kalaunan ay tumama ito sa kaniyang binti, bumaon sa lupa ang sibat
+at kasing dami ng tubig sa dagat ang paglabas nang dugo sa kaniyang hita. Alam mong sa rami nito ay hindi
+na siya tatagal kaya't hindi ka na nag-aksiya pa ng oras sa kaniya.
+
+<//>
+
+<004-DEF>
+=========
+Tumigil ka saglit habang nasa likod mo ang sibat at hinayaan mong makahabol sa iyo ang kalaban. Nang
+makalapit na siya, kinuha mo ang sibat at sinibat mo ang kaniyang paa. Bumaon ito sa lupang kinatatayuan
+niya. Dali dali mong hinampas nang sandata mo ang kalaban sa kaniyang suot na damit, hindi ito naging
+epektibo at may maliit na kislap na lumipad nang magdikit ang sandata mo at ang kaniyang suot na damit.
+Kislap na nakita mo kapag kinikiskis ang dalawang bato. Hindi kaya gawa sa bato ang kanilang kasuotan?
+Hindi bali, nakabaon parin sa lupa ang kaniyang paa. Nakita mong walang nakaharang sa kaniyang mukha kaya
+hiniwa mo ito pagkatapos sinaksak mo ang kaniyang leeg. Namatay naman ang pangalawang kalaban sa kamay
+ng isa sa iyong kapatid, marahil ginamit nilang opurtunidad ang pagbagsak nito sa lupa noong inararo mo
+siya.
+
+<//>
+
+<004-DDG>
+=========
+Iniwasan mo ang sibat na ito dahil sa tingin mo ay hindi ito magiging epektibo sa kanila. Sa iyong pag
+iwas sa sibat, nakakita ka ng pana't pana. Napakaraming palaso ang nakalatag lang sa buhangin at hindi
+ito katulad ng palasong gamit gamit ninyo. Singkintab ng damit ng mga mananakop ang ulo nang panang
+ito. Marahil gawa ang dalawang ito sa parehong materyales. Ginamit mo palaso't pana upang matamaan
+ang kalabang nasa malayuang posisyon. Tinansiya mo ang palaso para tumama sa kaniyang hita sabay ito ay
+iyong pinakawalan. Walang malay ang kalaban na malapit sa pagbaba nang palaso sa kalangitan. Tumama ito
+sa kaniyang hita at napasigaw siya sa sakit. Kumuha ka muli ng palaso at pinatama mo naman ito sa
+kaniyang suot na sapin sa ulo. Tumama ito at bumagsak ang kalaban. Kumuha ka muli ng palaso pero ngayon
+ay nakatutok ka naman sa pangalawang kalaban, ito na ang iyong pagkakataon para ipaghiganti ang iyong
+kapatid. Hinila mo ang tali sa pana, tinansiya mo ang direksiyon ng kalaban at direksiyon mo sabay
+bitaw dito. Nakatingin ka sa kalaban habang pababa ang palaso. Puno ng galit ang nasa isip mo. Katulad
+ng naunang kalaban, tumama ang palaso sa sapin sa ulo ng pangalawang kalaban. 
+
+<//>
+
+<005-005>
+*********
+Sa hindi kalayuan, nakita mong naghahanda nang magsilisan ang mga mananakop, habang ang ilan ay
+naglalayag na gamit ang kanilang bangka paalis sa labanan. Gamit ang panang iyong nakita, sinubukan
+mong patamaan ng palaso ang iilan pero sa iyong kanan ay nakita mong may isang lalaki magbabalak na
+sunugin ang kubong iyong tinutuluyan. Dalawang desisyon ang nasa harapan mo, depensahan ang iyong
+bahay o atakihin ang mga kalabang naglalayag paalis.
+
+<//>
+
+<005-ATT>
+=========
+Hindi mo pinansin ang lalaki at tinuloy mo ang pagpana mo sa mga nakasakay sa barkong naglalayag
+paalis ng laban. Nakatama ka ng iilan pero marami sa palasong iyong ginamit ay hindi tumama habang
+ang kubo mo naman ay tuluyan na ngang nasunog. Ang lalaki naman ay dali daling tumakbo papunta sa
+dagat, marahil upang makatakas sa kaniyang ginawa. Hinabol siya siya ng iyong mga kapatid para
+pagpayarin sa kaniyang ginawang pagsunog. Hindi siya nakaabota sa mga barkong naglalayag paalis ng
+labanan, dito na siya pinagtulungan ng iyong mga kapatid.
+
+<//>
+
+<005-DEF>
+=========
+Dinepensahan mo ang iyong kubo ng harap harap gamit ang iyong espada ngunit ikaw ay natalo sa
+labang ito. Tuluyan niyang nasunog ang kubong iyong tinutuluyan. Sa iyong huling sandali,
+nakita mong hinahabol siya ng iyong mga kapatid. Marahil maipapaghiganti nila ang iyong
+kamatayan. Habang nasa isip mo ito, bumagsak ka sa lupa at dito na namahinga.
+
+<//>
+
+<005-DDG>
+=========
+Iniwasan mo ang dalawang desisyon sa pag-upo sa buhangin, pagod ka na at walang lakas
+kaya sinubukan mong magpahinga muna. Kaya mo namang gumawa ng panibagong kubo kung
+gugustuhin mo. Habang nakahiga ka sa lupa, nakita mong nasusunog na ang iyong kubo at
+ang lalaking nagpasimuno ng sunog ay tumatakbo sa mga kapatid mong humahabol sa
+kaniya na handa siyang patayin. Ilang minuto ang nakalipas, pinagtulungan ng iyong
+mga kapatid ang nag iisang lalaking ito. Saksi ang iyong mga mata sa galit nila sa
+lalaking ito.
+
+<//>
+
+<END-END>
+*********
+Tuluyan na ngang nakatakas ang mga mananakop. Tagumpay ang iyong mga kapatid at Datu
+labanang ito ngunit marami sa iyong kapatid ang kelangang magsakripisyo ng kanilang
+buhay upang makamtan ninyo ang tagumpay na ito. Alam mo ring babalik ang mga mananakop
+na ito upang ipaghiganti ang kanilang mga kakampi. Hindi ito ang magiging huling laban
+ninyo. Pero, ngayon ay kayo ang nanalo at iyon lamang ang mahalaga, kung balak paman
+nilang bumalik ay nakahanda ang inyong Datu upang pantayan muli sila sa laban. Hangga't
+buhay ang inyong Datu, hindi sila mananalo sa bawat labang kanilang pipiliin.
+
+<//>
